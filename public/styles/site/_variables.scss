@@ -1,3 +1,17 @@
-// Override Bootstrap variables in this file, e.g.
+$color-white: #fff;
+$color-black: #000;
+$color-white-2: #CAD3C8;
+// $color-main: #2980b9;
+// $color-main-lighter: #3498db;
+$color-main: #1abc9c;
+$color-main-lighter: #16a085;
 
-$font-size-base: 14px;
+// $easing: cubic-bezier(0.86, 0, 0.07, 1);
+
+$screen-sm-min: 768px;
+$screen-xs-max: ($screen-sm-min - 1);
+$screen-md-min: 992px;
+$screen-sm-max: ($screen-md-min - 1);
+$screen-lg-min: 1200px;
+$screen-md-max: ($screen-lg-min - 1);
+$screen-xlg-min: 1400px;
